@@ -1,0 +1,55 @@
+body {
+  margin: 10px 20px;
+
+}
+
+.navigate {
+  text-align: center;  
+}
+
+.image-background {
+  background-image: url("../images/home_header_bg.jpg");
+  height: 1000px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.heading {
+  padding: 50px;
+  text-align: center;
+}
+
+.archive-white-zone {
+  height: 125px;
+}
+
+.archive {
+  margin: 5px;
+  padding: 50px 0 20px 0;
+}
+
+h3 {
+  text-align: center;
+}
+
+.sm-img {
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+  width: 400px;
+}
+
+.blue-para {
+  height: 600px;
+  background-color: lightskyblue;
+}
+
+.blue-content {
+  text-align: center;
+  margin: 0 250px;
+}
+
+.blue-heading {
+  padding: 60px 0 2px 0;
+}
